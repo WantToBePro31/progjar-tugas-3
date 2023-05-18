@@ -1,0 +1,1 @@
+Maximum thread pools acquired: 1040
